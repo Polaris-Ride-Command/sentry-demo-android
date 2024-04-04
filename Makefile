@@ -1,4 +1,4 @@
-SENTRY_ORG=demo
+SENTRY_ORG=polaris-inc
 SENTRY_PROJECT=android
 RELEASE=`sentry-cli releases propose-version`
 
