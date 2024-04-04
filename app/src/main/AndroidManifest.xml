@@ -39,7 +39,7 @@
 
         <meta-data
             android:name="io.sentry.dsn"
-            android:value="https://3d2ac63d6e1a4c6e9214443678f119a3@o87286.ingest.sentry.io/1801383" />
+            android:value="https://f67d369ce361b94e67bccfcbac6415d3@o4506951084998656.ingest.us.sentry.io/4506951103807488" />
         <meta-data
             android:name="io.sentry.debug"
             android:value="true" />
